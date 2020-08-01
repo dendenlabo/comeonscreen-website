@@ -1,9 +1,3 @@
-## Come on Screen 説明書 (Windows版)
-
-この度はプレゼンテーション支援ツール「Come on Screen」をダウンロードしていただきありがとうございます。「Come on Screen」は、プレゼンテーション時に、発表者の身振り手振りを伝えることができるシステムです。
-
-
-
 ## 使用方法
 
 1.  zipファイルを任意の場所に解凍する。
@@ -27,13 +21,13 @@
 
 パレット呼び出しボタンをクリックすることで、各種設定などを行えるパレットウインドウが呼び出されます。
 
-![Mainwindow](C:\Users\rapto\Downloads\Mainwindow.png)
+![Mainwindow](./Mainwindow.png)
 
 #### パレットウインドウ
 
 各種設定の変更や目玉機能であるテンプレートを使う際に用いるウインドウです。
 
-![COS_Pallete](C:\Users\rapto\Downloads\COS_Pallete.JPG)
+![COSPallete](./COSPallete.jpg)
 
 それでは各ボタンの説明をします。
 
@@ -50,7 +44,7 @@
 
 キャプチャ画面が右上、カメラ画面が左上に設定されます。テンプレートには拡大縮小の中心となる点(赤丸)が設定されており、そちらに向けて拡大縮小が行われます。
 
-![Template1](C:\Users\rapto\Downloads\Template1.png)
+![Template1](./Template1.png)
 
 
 
@@ -58,7 +52,7 @@
 
 カメラ入力にSnap Camera等を選択することもできます。
 
-![TIPS](C:\Users\rapto\Downloads\TIPS.png)
+![TIPS](./TIPS.png)
 
 ## 動作環境
 
