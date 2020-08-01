@@ -1,6 +1,6 @@
 ## Come on Screen
 
-ここにCome on Screenの説明を書く！
+Come on Screenは、プレゼンテーションスライドと同時に、発表者の身振り手振りを伝えるためのプレゼンテーション支援ツールです。
 
 ### Download
 
