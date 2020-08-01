@@ -4,6 +4,10 @@ Come on Screenは、プレゼンテーションスライドと同時に、発表
 
 ![](./cos.png)
 
+### 使い方
+
+- [マニュアル](./manual.md)
+
 ### Download
 
 #### latest
