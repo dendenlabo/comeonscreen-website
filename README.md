@@ -12,5 +12,5 @@ Come on Screenは、プレゼンテーションスライドと同時に、発表
 
 #### latest
 
-- [windows版](https://github.com/dendenlabo/comeonscreen-website/releases/download/v0.0.0/comeonscreen-v1.0.0-win32-x64.zip)
+- [windows版](https://github.com/dendenlabo/comeonscreen-website/releases/download/v1.0.0/comeonscreen-v1.0.0-win32-x64.zip)
 - Mac版（後ほどリリース予定）
