@@ -29,6 +29,6 @@ Windows 10での動作を確認しています。Zoomのバーチャル背景が
 
 バグ報告やフィードバック等ありましたらご連絡いただければ幸いです。
 
-Twitter: https://twitter.com/dendenlabo 
+[Twitter](https://twitter.com/dendenlabo)
 
 メール: dendenlabo@gmail.com
