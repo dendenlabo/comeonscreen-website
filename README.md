@@ -1,6 +1,8 @@
 ## Come on Screen
 
-Come on Screenは、プレゼンテーションスライドと同時に、発表者の身振り手振りを伝えるためのプレゼンテーション支援ツールです。
+Come on Screen(カモンスクリーン)は、プレゼンテーションスライドと同時に、発表者の身振り手振りを伝えるためのプレゼンテーション支援ツールです。
+
+https://dendenlabo.github.io/comeonscreen-website/
 
 ![](./cos.png)
 
