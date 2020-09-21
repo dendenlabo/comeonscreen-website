@@ -2,8 +2,6 @@
 
 Come on Screen(カモンスクリーン)は、プレゼンテーションスライドと同時に、発表者の身振り手振りを伝えるためのプレゼンテーション支援ツールです。
 
-https://dendenlabo.github.io/comeonscreen-website/
-
 ![](./cos.png)
 
 ### 使い方
@@ -32,5 +30,7 @@ Windows 10での動作を確認しています。Zoomのバーチャル背景が
 バグ報告やフィードバック等ありましたらご連絡いただければ幸いです。
 
 [Twitter](https://twitter.com/dendenlabo)
+
+URL: https://dendenlabo.github.io/comeonscreen-website/
 
 メール: dendenlabo@gmail.com
