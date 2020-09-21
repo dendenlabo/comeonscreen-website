@@ -31,6 +31,6 @@ Windows 10での動作を確認しています。Zoomのバーチャル背景が
 
 [Twitter](https://twitter.com/dendenlabo)
 
-URL: https://dendenlabo.github.io/comeonscreen-website/
+[URL](https://dendenlabo.github.io/comeonscreen-website/)
 
 メール: dendenlabo@gmail.com
