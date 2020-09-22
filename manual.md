@@ -72,5 +72,3 @@ Twitter: https://twitter.com/dendenlabo
 
 メール: dendenlabo@gmail.com
 
-最新版: https://dendenlabo.booth.pm/items/2251960
-
