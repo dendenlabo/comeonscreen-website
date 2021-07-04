@@ -12,7 +12,7 @@ Come on Screen(カモンスクリーン)は、プレゼンテーションスラ�
 
 #### 最新版
 
-- [Windows版 (version 1.0.0)](https://github.com/dendenlabo/comeonscreen-website/releases/download/v1.0.0/comeonscreen-v1.0.0-win32-x64.zip)
+- [Windows版 (version 3.0.0)](https://github.com/dendenlabo/comeonscreen-website/releases/download/v3.0.0/comeonscreen-v3.0.0-win32-x64.zip)
 - [Mac版 (version 1.0.1)](https://github.com/dendenlabo/comeonscreen-website/releases/download/v1.0.1/comeonscreen-v1.0.1-darwin-x64.zip)
 
 ### 動作環境
